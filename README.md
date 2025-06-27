@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">Sevastyan Rosin</h1>
-<h2 align="center">Design.🖼️ Development.🛠️ Management.🎛️</h2>
+<h2 align="center">Design🖼️ Development🛠️ Management🎛️</h2>
 
 ###
 
