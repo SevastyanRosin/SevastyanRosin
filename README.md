@@ -77,6 +77,31 @@
 
 ###
 
+<h3 align="left">Management Tools:</h3>
+
+###
+
+<div align="left">
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons%232/gitlab.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/discord-dark.svg" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git-light.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/miro.svg" height="40" alt="miro logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/notion-dark.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/trello-dark.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+</div>
+
+###
+
 <h3 align="left">🔥   Моя статистика :</h3>
 
 ###
