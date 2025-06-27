@@ -40,6 +40,43 @@
 
 ###
 
+<h3 align="left">Development Tools:</h3>
+
+###
+
+<div align="left">
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/css-light.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" height="40" alt="js logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/npm-dark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/openai-dark.svg" height="40" alt="openai logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" height="40" alt="postgre logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pycharm-light.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" height="40" alt="py logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/ubuntu-light.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" height="40" alt="vsc logo"  />
+  <img width="12" />
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows-dark.svg" height="40" alt="windows logo"  />
+  <img width="12" />
+</div>
+
+###
+
 <h3 align="left">🔥   Моя статистика :</h3>
 
 ###
